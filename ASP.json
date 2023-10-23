@@ -1,1 +1,10 @@
-
+{
+  "success":true,
+  "data":[
+    {
+      "name": "Anuj",
+      "email": "username@gmail.com",
+      "phone": "9876543210",
+      "password": "password@12345"
+  ]
+}
