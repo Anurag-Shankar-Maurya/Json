@@ -6,5 +6,12 @@
       "email": "username@gmail.com",
       "phone": "9876543210",
       "password": "password@12345"
+    },
+    {
+      "name": "Anurag",
+      "email": "username1@gmail.com",
+      "phone": "9876543220",
+      "password": "password@123456"
+    }
   ]
 }
